@@ -2,7 +2,7 @@
 
 ![logo](https://github.com/AlvaroBonet/AlvaroBonet/blob/main/assets/1685871630411.jpeg)
 
-Buenas, soy Alvaro Bonet, actualmente cursando 1º DAW en IMF SMART EDUCATION
+Buenas, soy Alvaro Bonet, actualmente cursando 2º DAW en IMF SMART EDUCATION
 
 <!--
 **AlvaroBonet/AlvaroBonet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
