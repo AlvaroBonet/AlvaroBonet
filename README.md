@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![logo](https://github.com/AlvaroBonet/AlvaroBonet/blob/main/assets/git.png)
+![logo](https://github.com/AlvaroBonet/AlvaroBonet/blob/main/assets/1685871630411.jpeg)
 
 Buenas, soy Alvaro Bonet, actualmente cursando 2º DAW en IMF SMART EDUCATION
 
